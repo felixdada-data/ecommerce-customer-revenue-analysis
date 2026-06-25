@@ -1,0 +1,81 @@
+Customer_ID,Customer_Name,Region,State,Segment,Join_Date
+CUST001,Customer 001,West,California,Home Office,09/10/2023
+CUST002,Customer 002,South,Texas,Consumer,15/04/2023
+CUST003,Customer 003,West,Washington,Corporate,02/02/2023
+CUST004,Customer 004,West,California,Consumer,27/08/2023
+CUST005,Customer 005,West,Washington,Consumer,27/10/2024
+CUST006,Customer 006,North,Illinois,Corporate,26/08/2024
+CUST007,Customer 007,East,New York,Consumer,08/03/2024
+CUST008,Customer 008,East,Massachusetts,Consumer,09/08/2023
+CUST009,Customer 009,East,New York,Consumer,25/01/2024
+CUST010,Customer 010,West,Oregon,Corporate,10/09/2024
+CUST011,Customer 011,East,New York,Home Office,15/04/2024
+CUST012,Customer 012,West,Oregon,Consumer,19/07/2024
+CUST013,Customer 013,East,Virginia,Home Office,06/01/2024
+CUST014,Customer 014,South,Georgia,Consumer,16/02/2023
+CUST015,Customer 015,South,Florida,Consumer,27/08/2023
+CUST016,Customer 016,West,Oregon,Corporate,09/04/2024
+CUST017,Customer 017,East,New York,Corporate,30/12/2023
+CUST018,Customer 018,South,Georgia,Corporate,30/11/2024
+CUST019,Customer 019,West,Washington,Home Office,25/06/2023
+CUST020,Customer 020,South,Texas,Corporate,24/01/2024
+CUST021,Customer 021,East,Virginia,Home Office,24/07/2024
+CUST022,Customer 022,South,Georgia,Corporate,27/02/2023
+CUST023,Customer 023,South,Texas,Corporate,15/02/2024
+CUST024,Customer 024,East,New York,Consumer,03/08/2024
+CUST025,Customer 025,East,New York,Home Office,26/05/2024
+CUST026,Customer 026,North,Ohio,Corporate,27/05/2023
+CUST027,Customer 027,East,New York,Consumer,28/07/2024
+CUST028,Customer 028,East,Virginia,Home Office,14/03/2024
+CUST029,Customer 029,North,Michigan,Consumer,22/05/2023
+CUST030,Customer 030,North,Illinois,Consumer,23/04/2023
+CUST031,Customer 031,South,Georgia,Consumer,27/11/2024
+CUST032,Customer 032,North,Ohio,Consumer,30/01/2024
+CUST033,Customer 033,North,Ohio,Corporate,25/06/2024
+CUST034,Customer 034,East,Virginia,Consumer,27/11/2024
+CUST035,Customer 035,West,Washington,Home Office,01/10/2023
+CUST036,Customer 036,East,New York,Corporate,21/03/2024
+CUST037,Customer 037,South,Florida,Consumer,27/09/2023
+CUST038,Customer 038,South,Georgia,Consumer,02/10/2024
+CUST039,Customer 039,East,Virginia,Home Office,15/09/2024
+CUST040,Customer 040,South,Texas,Corporate,15/06/2023
+CUST041,Customer 041,West,Washington,Corporate,15/05/2024
+CUST042,Customer 042,West,California,Corporate,11/11/2023
+CUST043,Customer 043,South,Texas,Consumer,03/08/2024
+CUST044,Customer 044,West,California,Home Office,12/05/2024
+CUST045,Customer 045,West,Washington,Consumer,12/05/2023
+CUST046,Customer 046,North,Ohio,Consumer,29/09/2023
+CUST047,Customer 047,North,Illinois,Home Office,25/07/2023
+CUST048,Customer 048,East,Massachusetts,Home Office,27/10/2024
+CUST049,Customer 049,East,Massachusetts,Home Office,07/04/2024
+CUST050,Customer 050,West,California,Consumer,07/03/2023
+CUST051,Customer 051,East,New York,Home Office,21/07/2024
+CUST052,Customer 052,South,Georgia,Consumer,08/01/2023
+CUST053,Customer 053,West,Washington,Home Office,02/03/2023
+CUST054,Customer 054,South,Texas,Consumer,05/12/2023
+CUST055,Customer 055,West,Washington,Consumer,13/10/2023
+CUST056,Customer 056,North,Illinois,Home Office,16/05/2023
+CUST057,Customer 057,North,Illinois,Corporate,21/02/2024
+CUST058,Customer 058,South,Texas,Consumer,05/11/2024
+CUST059,Customer 059,North,Michigan,Corporate,25/02/2024
+CUST060,Customer 060,North,Ohio,Consumer,20/11/2024
+CUST061,Customer 061,West,California,Corporate,14/12/2023
+CUST062,Customer 062,West,California,Consumer,14/07/2023
+CUST063,Customer 063,North,Illinois,Corporate,07/07/2023
+CUST064,Customer 064,East,Massachusetts,Consumer,19/03/2023
+CUST065,Customer 065,North,Ohio,Consumer,21/02/2023
+CUST066,Customer 066,West,California,Consumer,20/06/2023
+CUST067,Customer 067,North,Michigan,Corporate,07/08/2023
+CUST068,Customer 068,North,Illinois,Consumer,24/01/2024
+CUST069,Customer 069,West,Oregon,Corporate,10/04/2024
+CUST070,Customer 070,East,Massachusetts,Home Office,23/07/2024
+CUST071,Customer 071,North,Illinois,Consumer,31/10/2023
+CUST072,Customer 072,South,Texas,Home Office,09/07/2024
+CUST073,Customer 073,West,Washington,Corporate,28/02/2023
+CUST074,Customer 074,West,Washington,Corporate,29/05/2024
+CUST075,Customer 075,South,Texas,Home Office,24/03/2023
+CUST076,Customer 076,South,Texas,Home Office,11/03/2023
+CUST077,Customer 077,South,Florida,Consumer,06/08/2024
+CUST078,Customer 078,South,Georgia,Home Office,10/02/2023
+CUST079,Customer 079,West,Oregon,Home Office,20/08/2024
+CUST080,Customer 080,East,Massachusetts,Consumer,16/11/2024
