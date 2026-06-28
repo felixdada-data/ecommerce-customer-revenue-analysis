@@ -54,6 +54,21 @@ The data includes customer details, product details, orders, sales representativ
 2. Product and Customer Insights
 3. Monthly Business Trends
 
+## Power BI Executive Dashboard
+
+The Power BI dashboard was upgraded to provide an executive-level summary of business performance.
+
+### Key KPIs
+- Total Revenue: $264.52K
+- Total Profit: $193.36K
+- Profit Margin: 73.10%
+
+### Dashboard Visuals
+- Revenue by Region
+- Revenue by Payment Status
+- Monthly Revenue Trend
+- Monthly Profit Trend
+
 ## Author
 
 **Felix Dada**
